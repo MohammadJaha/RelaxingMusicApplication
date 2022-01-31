@@ -1,78 +1,44 @@
 # RelaxingMusicApplication
 IOS Application to Relax and Listen to Music
+&nbsp;  
 
-&nbsp;  
-&nbsp;  
-    
 **Demo:**
-[![Family Grocery Application](https://user-images.githubusercontent.com/90371913/151789592-12dc88f6-1089-44e1-953d-50a82b108ab0.jpg)](https://youtu.be/BE2k_xGL9dk)  
+[![Relaxing Application](https://user-images.githubusercontent.com/90371913/151861409-c223fd90-0c32-45a2-b3b9-cb66ef2c62d6.jpg)](https://youtu.be/R6kdGfaYZec)  
 
 
 Using **Swift**  
 
-This Code Provide Simple **IOS Application** For **Family Grocery List**
+This Code Provide Simple **IOS Application** To **Listen to Music**
 
-This Application Called **Family Grocery List Application**
+This Application Called **Relaxing Music Application**
 
-This Application Provide Simple Connection to **Firebase**
-&nbsp;  
-&nbsp;  
+&nbsp; 
+
+This Application Plays **Sober** By **Demi Lovato**
+
+&nbsp;   
 
 **This Application Will:**
-* • Login to Firebase
-* •	Read From Firebase
-* •	Write to Firebase
-* •	Delete From Firebase
-* •	Save in Firebase
-* • Getting Data from Google
-* • Getting Data from Facebook
-&nbsp;  
-&nbsp;  
-
-**This Application Contains 4 View Controllers:** 
-
-**1. SignIn View Controller:**
-*     •	Asking The User to Enter **Email** And **PassWord**
-*     •	SignIn Using Google
-*     •	SignIn Using Facebook
-      
-<img src="https://user-images.githubusercontent.com/90371913/151787093-6c73cfa7-60d1-4bcc-8631-113774da4f2b.png" width="320" height="660">
+* • Start Music
+* •	Pause Music
+* •	Forward Music
+* •	Backward Music
+* •	Display Usage Information
 
 &nbsp;  
+
+**This Application Contains:** 
+* • Stars Animation Background
+* •	Rain Animation Background
+* •	Moving Blue Waves
+* •	Information Alert View
+
 &nbsp;  
+
+<img src="https://user-images.githubusercontent.com/90371913/151862791-9d7957c5-3dcb-440d-ab50-f3fa30affa4b.png" width="320" height="660"> | <img src="https://user-images.githubusercontent.com/90371913/151862868-b7ce1d3f-d890-4c2f-b8c1-822dbd894da6.png" width="320" height="660">
     
-**2. SignUp View Controller:**
-*     •	Asking The User to Add **Profile Image**
-*     •	Asking The User to Enter **Name**
-*     •	Asking The User to Enter **Email**
-*     •	Asking The User to Enter **Password**
-*     •	Asking The User to Chose **Family**
-      
-<img src="https://user-images.githubusercontent.com/90371913/151787808-f1fa8c3e-24db-4875-b7a5-0a27e8c7f9b0.png" width="320" height="660"> | <img src="https://user-images.githubusercontent.com/90371913/151787815-c805ffba-e548-41a1-86ae-8cdf7785569d.png" width="320" height="660">
+    
+<img src="https://user-images.githubusercontent.com/90371913/151863008-e710bb64-07b4-418e-9cbe-fd1d20f6c21d.png" width="320" height="660"> | <img src="https://user-images.githubusercontent.com/90371913/151863095-c0ed133e-85d1-4499-84f7-67d8dca48fd5.png" width="320" height="660">
 
 &nbsp;  
 &nbsp;  
-
-**3. Grocery List View Controller:**
-*     •	Add New Grocery to the List
-*     •	Edit Grocery in the List
-*     •	Delete Grocey from the List
-*     •	Buy Grocery for All Family Memebrs
-      
-<img src="https://user-images.githubusercontent.com/90371913/151788804-6c2f6ee4-c453-4ff3-bba3-a337b8fd7ed0.png" width="320" height="660">
-
-&nbsp;  
-&nbsp;  
-     
-**4. Family Members View Controller:**
-*     •	Display All Family Members
-*     •	Display Online Family Members
-*     •	Display Offline Family Members
-*     •	Show Family Member Profile
-*     •	SignOut
-      
-<img src="https://user-images.githubusercontent.com/90371913/151789368-8d45e5c6-f76b-4044-bc62-9ff304f51461.png" width="320" height="660"> | <img src="https://user-images.githubusercontent.com/90371913/151792415-f19ace8b-a086-4ea9-a0e3-174cbd18de59.png" width="320" height="660">
-
-&nbsp;  
-&nbsp;  
-     
